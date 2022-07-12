@@ -1,0 +1,1685 @@
+{
+  "name": "Дескрипторная модель 2",
+  "children": [
+    {
+      "name": "Знать",
+      "children": [
+        {
+          "name": "topic_0",
+          "children": [
+            { "name": "обучение", "weight": 0.05 },
+            { "name": "учитель", "weight": 0.03 },
+            { "name": "данные", "weight": 0.025 },
+            { "name": "модель", "weight": 0.023 },
+            { "name": "машинный", "weight": 0.02 },
+            { "name": "число", "weight": 0.017 },
+            { "name": "параметрический", "weight": 0.015 },
+            { "name": "алгоритм", "weight": 0.013 },
+            { "name": "группа", "weight": 0.012 },
+            { "name": "это", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_1",
+          "children": [
+            { "name": "слово", "weight": 0.031 },
+            { "name": "модель", "weight": 0.013 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "который", "weight": 0.011 },
+            { "name": "вектор", "weight": 0.011 },
+            { "name": "текст", "weight": 0.01 },
+            { "name": "представление", "weight": 0.009 },
+            { "name": "word", "weight": 0.007 },
+            { "name": "vec", "weight": 0.007 },
+            { "name": "язык", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_2",
+          "children": [
+            { "name": "слово", "weight": 0.029 },
+            { "name": "вектор", "weight": 0.022 },
+            { "name": "предложение", "weight": 0.017 },
+            { "name": "layer", "weight": 0.017 },
+            { "name": "векторный", "weight": 0.016 },
+            { "name": "сеть", "weight": 0.016 },
+            { "name": "матрица", "weight": 0.016 },
+            { "name": "представление", "weight": 0.015 },
+            { "name": "delta", "weight": 0.011 },
+            { "name": "нейронный", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_3",
+          "children": [
+            { "name": "in", "weight": 0.025 },
+            { "name": "vol", "weight": 0.021 },
+            { "name": "networks", "weight": 0.017 },
+            { "name": "neural", "weight": 0.016 },
+            { "name": "который", "weight": 0.014 },
+            { "name": "arxiv", "weight": 0.013 },
+            { "name": "of", "weight": 0.013 },
+            { "name": "learning", "weight": 0.011 },
+            { "name": "et", "weight": 0.01 },
+            { "name": "for", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_4",
+          "children": [
+            { "name": "это", "weight": 0.012 },
+            { "name": "слой", "weight": 0.011 },
+            { "name": "сеть", "weight": 0.01 },
+            { "name": "нормализация", "weight": 0.009 },
+            { "name": "обучение", "weight": 0.008 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "функция", "weight": 0.008 },
+            { "name": "параметр", "weight": 0.007 },
+            { "name": "градиент", "weight": 0.007 },
+            { "name": "батч", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_5",
+          "children": [
+            { "name": "сеть", "weight": 0.014 },
+            { "name": "функция", "weight": 0.012 },
+            { "name": "нейрон", "weight": 0.011 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "перцептрон", "weight": 0.01 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "нейронный", "weight": 0.009 },
+            { "name": "обучение", "weight": 0.008 },
+            { "name": "активация", "weight": 0.007 },
+            { "name": "relu", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_6",
+          "children": [
+            { "name": "обучение", "weight": 0.028 },
+            { "name": "глубокий", "weight": 0.027 },
+            { "name": "это", "weight": 0.021 },
+            { "name": "шаг", "weight": 0.018 },
+            { "name": "который", "weight": 0.014 },
+            { "name": "хороший", "weight": 0.011 },
+            { "name": "статья", "weight": 0.011 },
+            { "name": "изучать", "weight": 0.01 },
+            { "name": "мочь", "weight": 0.009 },
+            { "name": "начинать", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_7",
+          "children": [
+            { "name": "функция", "weight": 0.029 },
+            { "name": "layer", "weight": 0.021 },
+            { "name": "acc", "weight": 0.018 },
+            { "name": "слой", "weight": 0.016 },
+            { "name": "активация", "weight": 0.014 },
+            { "name": "test", "weight": 0.014 },
+            { "name": "значение", "weight": 0.013 },
+            { "name": "train", "weight": 0.01 },
+            { "name": "сеть", "weight": 0.01 },
+            { "name": "np", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_8",
+          "children": [
+            { "name": "слово", "weight": 0.028 },
+            { "name": "сеть", "weight": 0.021 },
+            { "name": "нейронный", "weight": 0.013 },
+            { "name": "данные", "weight": 0.011 },
+            { "name": "слой", "weight": 0.01 },
+            { "name": "word", "weight": 0.009 },
+            { "name": "weights", "weight": 0.008 },
+            { "name": "язык", "weight": 0.008 },
+            { "name": "обзор", "weight": 0.008 },
+            { "name": "иметь", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_9",
+          "children": [
+            { "name": "test", "weight": 0.061 },
+            { "name": "train", "weight": 0.054 },
+            { "name": "err", "weight": 0.054 },
+            { "name": "acc", "weight": 0.053 },
+            { "name": "layer", "weight": 0.026 },
+            { "name": "сеть", "weight": 0.022 },
+            { "name": "нейронный", "weight": 0.014 },
+            { "name": "np", "weight": 0.011 },
+            { "name": "это", "weight": 0.01 },
+            { "name": "обучение", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_10",
+          "children": [
+            { "name": "обучение", "weight": 0.033 },
+            { "name": "сеть", "weight": 0.019 },
+            { "name": "глубокий", "weight": 0.018 },
+            { "name": "книга", "weight": 0.016 },
+            { "name": "нейронный", "weight": 0.016 },
+            { "name": "глава", "weight": 0.012 },
+            { "name": "язык", "weight": 0.007 },
+            { "name": "код", "weight": 0.007 },
+            { "name": "издательство", "weight": 0.006 },
+            { "name": "несколько", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_11",
+          "children": [
+            { "name": "сеть", "weight": 0.026 },
+            { "name": "вес", "weight": 0.019 },
+            { "name": "нейронный", "weight": 0.016 },
+            { "name": "layer", "weight": 0.015 },
+            { "name": "это", "weight": 0.014 },
+            { "name": "ауег", "weight": 0.013 },
+            { "name": "данные", "weight": 0.012 },
+            { "name": "узел", "weight": 0.012 },
+            { "name": "корреляция", "weight": 0.012 },
+            { "name": "матрица", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_12",
+          "children": [
+            { "name": "сеть", "weight": 0.014 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "который", "weight": 0.01 },
+            { "name": "мозг", "weight": 0.009 },
+            { "name": "нейронный", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "задача", "weight": 0.007 },
+            { "name": "год", "weight": 0.007 },
+            { "name": "человек", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_13",
+          "children": [
+            { "name": "обучение", "weight": 0.027 },
+            { "name": "model", "weight": 0.018 },
+            { "name": "глубокий", "weight": 0.017 },
+            { "name": "test", "weight": 0.011 },
+            { "name": "data", "weight": 0.011 },
+            { "name": "данные", "weight": 0.011 },
+            { "name": "train", "weight": 0.01 },
+            { "name": "модель", "weight": 0.008 },
+            { "name": "глава", "weight": 0.007 },
+            { "name": "target", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_14",
+          "children": [
+            { "name": "сеть", "weight": 0.02 },
+            { "name": "lstm", "weight": 0.017 },
+            { "name": "рекуррентный", "weight": 0.014 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "вход", "weight": 0.01 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "текст", "weight": 0.008 },
+            { "name": "ячейка", "weight": 0.007 },
+            { "name": "гейт", "weight": 0.007 },
+            { "name": "нейронный", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_15",
+          "children": [
+            { "name": "сеть", "weight": 0.043 },
+            { "name": "обучение", "weight": 0.03 },
+            { "name": "каждый", "weight": 0.024 },
+            { "name": "значение", "weight": 0.021 },
+            { "name": "это", "weight": 0.017 },
+            { "name": "который", "weight": 0.015 },
+            { "name": "функция", "weight": 0.013 },
+            { "name": "работа", "weight": 0.013 },
+            { "name": "слой", "weight": 0.012 },
+            { "name": "модель", "weight": 0.012 }
+          ]
+        },
+        {
+          "name": "topic_16",
+          "children": [
+            { "name": "ошибка", "weight": 0.037 },
+            { "name": "weight", "weight": 0.026 },
+            { "name": "pred", "weight": 0.022 },
+            { "name": "error", "weight": 0.021 },
+            { "name": "вес", "weight": 0.019 },
+            { "name": "это", "weight": 0.019 },
+            { "name": "обучение", "weight": 0.016 },
+            { "name": "input", "weight": 0.015 },
+            { "name": "значение", "weight": 0.013 },
+            { "name": "изменение", "weight": 0.013 }
+          ]
+        },
+        {
+          "name": "topic_17",
+          "children": [
+            { "name": "сеть", "weight": 0.062 },
+            { "name": "test", "weight": 0.038 },
+            { "name": "слой", "weight": 0.037 },
+            { "name": "np", "weight": 0.03 },
+            { "name": "это", "weight": 0.022 },
+            { "name": "in", "weight": 0.022 },
+            { "name": "весь", "weight": 0.02 },
+            { "name": "случай", "weight": 0.016 },
+            { "name": "мочь", "weight": 0.015 },
+            { "name": "ауег", "weight": 0.014 }
+          ]
+        },
+        {
+          "name": "topic_18",
+          "children": [
+            { "name": "сеть", "weight": 0.034 },
+            { "name": "который", "weight": 0.015 },
+            { "name": "дискриминатор", "weight": 0.012 },
+            { "name": "внимание", "weight": 0.012 },
+            { "name": "мочь", "weight": 0.01 },
+            { "name": "обучение", "weight": 0.009 },
+            { "name": "часть", "weight": 0.007 },
+            { "name": "архитектура", "weight": 0.007 },
+            { "name": "например", "weight": 0.006 },
+            { "name": "глава", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_19",
+          "children": [
+            { "name": "self", "weight": 0.039 },
+            { "name": "data", "weight": 0.015 },
+            { "name": "tensor", "weight": 0.014 },
+            { "name": "autograd", "weight": 0.012 },
+            { "name": "hidden", "weight": 0.012 },
+            { "name": "loss", "weight": 0.012 },
+            { "name": "np", "weight": 0.011 },
+            { "name": "распространение", "weight": 0.011 },
+            { "name": "input", "weight": 0.01 },
+            { "name": "обратный", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_20",
+          "children": [
+            { "name": "of", "weight": 0.015 },
+            { "name": "arxiv", "weight": 0.015 },
+            { "name": "al", "weight": 0.014 },
+            { "name": "and", "weight": 0.014 },
+            { "name": "http", "weight": 0.012 },
+            { "name": "et", "weight": 0.011 },
+            { "name": "распределение", "weight": 0.01 },
+            { "name": "the", "weight": 0.009 },
+            { "name": "org", "weight": 0.009 },
+            { "name": "abs", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_21",
+          "children": [
+            { "name": "слой", "weight": 0.035 },
+            { "name": "сеть", "weight": 0.027 },
+            { "name": "матрица", "weight": 0.024 },
+            { "name": "нейронный", "weight": 0.022 },
+            { "name": "корреляция", "weight": 0.019 },
+            { "name": "вектор", "weight": 0.016 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "архитектура", "weight": 0.01 },
+            { "name": "весь", "weight": 0.01 },
+            { "name": "ауег", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_22",
+          "children": [
+            { "name": "модель", "weight": 0.018 },
+            { "name": "порождать", "weight": 0.015 },
+            { "name": "распределение", "weight": 0.014 },
+            { "name": "который", "weight": 0.012 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "tf", "weight": 0.01 },
+            { "name": "генератор", "weight": 0.01 },
+            { "name": "gan", "weight": 0.008 },
+            { "name": "архитектура", "weight": 0.008 },
+            { "name": "функция", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_23",
+          "children": [
+            { "name": "функция", "weight": 0.016 },
+            { "name": "это", "weight": 0.014 },
+            { "name": "который", "weight": 0.012 },
+            { "name": "распределение", "weight": 0.008 },
+            { "name": "вероятность", "weight": 0.008 },
+            { "name": "обучение", "weight": 0.007 },
+            { "name": "задача", "weight": 0.006 },
+            { "name": "весь", "weight": 0.006 },
+            { "name": "ошибка", "weight": 0.006 },
+            { "name": "tensorflow", "weight": 0.005 }
+          ]
+        },
+        {
+          "name": "topic_24",
+          "children": [
+            { "name": "input", "weight": 0.022 },
+            { "name": "сеть", "weight": 0.019 },
+            { "name": "прогноз", "weight": 0.019 },
+            { "name": "weights", "weight": 0.017 },
+            { "name": "pred", "weight": 0.017 },
+            { "name": "вход", "weight": 0.016 },
+            { "name": "несколько", "weight": 0.014 },
+            { "name": "нейронный", "weight": 0.013 },
+            { "name": "вес", "weight": 0.013 },
+            { "name": "delta", "weight": 0.012 }
+          ]
+        },
+        {
+          "name": "topic_25",
+          "children": [
+            { "name": "это", "weight": 0.04 },
+            { "name": "сеть", "weight": 0.032 },
+            { "name": "модель", "weight": 0.03 },
+            { "name": "который", "weight": 0.024 },
+            { "name": "весь", "weight": 0.024 },
+            { "name": "функция", "weight": 0.022 },
+            { "name": "глава", "weight": 0.013 },
+            { "name": "год", "weight": 0.012 },
+            { "name": "однако", "weight": 0.008 },
+            { "name": "каждый", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_26",
+          "children": [
+            { "name": "сеть", "weight": 0.017 },
+            { "name": "слой", "weight": 0.014 },
+            { "name": "сверточный", "weight": 0.013 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "который", "weight": 0.01 },
+            { "name": "tf", "weight": 0.009 },
+            { "name": "сверток", "weight": 0.008 },
+            { "name": "изображение", "weight": 0.007 },
+            { "name": "автокодировщик", "weight": 0.006 },
+            { "name": "вход", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_27",
+          "children": [
+            { "name": "обучение", "weight": 0.017 },
+            { "name": "это", "weight": 0.013 },
+            { "name": "который", "weight": 0.012 },
+            { "name": "игра", "weight": 0.01 },
+            { "name": "подкрепление", "weight": 0.009 },
+            { "name": "состояние", "weight": 0.008 },
+            { "name": "стратегия", "weight": 0.007 },
+            { "name": "функция", "weight": 0.007 },
+            { "name": "го", "weight": 0.007 },
+            { "name": "сеть", "weight": 0.006 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Уметь",
+      "children": [
+        {
+          "name": "topic_0",
+          "children": [
+            { "name": "обучение", "weight": 0.026 },
+            { "name": "данные", "weight": 0.023 },
+            { "name": "train", "weight": 0.022 },
+            { "name": "val", "weight": 0.019 },
+            { "name": "data", "weight": 0.017 },
+            { "name": "пример", "weight": 0.013 },
+            { "name": "test", "weight": 0.013 },
+            { "name": "num", "weight": 0.011 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "model", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_1",
+          "children": [
+            { "name": "изображение", "weight": 0.021 },
+            { "name": "скрытый", "weight": 0.014 },
+            { "name": "сгенерировать", "weight": 0.01 },
+            { "name": "сеть", "weight": 0.01 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "данные", "weight": 0.009 },
+            { "name": "the", "weight": 0.009 },
+            { "name": "пространство", "weight": 0.008 },
+            { "name": "np", "weight": 0.008 },
+            { "name": "символ", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_2",
+          "children": [
+            { "name": "обучение", "weight": 0.021 },
+            { "name": "сеть", "weight": 0.018 },
+            { "name": "слой", "weight": 0.017 },
+            { "name": "tf", "weight": 0.012 },
+            { "name": "функция", "weight": 0.011 },
+            { "name": "нейронный", "weight": 0.011 },
+            { "name": "мочь", "weight": 0.01 },
+            { "name": "обучать", "weight": 0.009 },
+            { "name": "глубокий", "weight": 0.008 },
+            { "name": "модель", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_3",
+          "children": [
+            { "name": "of", "weight": 0.021 },
+            { "name": "https", "weight": 0.015 },
+            { "name": "the", "weight": 0.015 },
+            { "name": "arxiv", "weight": 0.014 },
+            { "name": "vol", "weight": 0.014 },
+            { "name": "www", "weight": 0.013 },
+            { "name": "al", "weight": 0.013 },
+            { "name": "et", "weight": 0.013 },
+            { "name": "and", "weight": 0.012 },
+            { "name": "org", "weight": 0.012 }
+          ]
+        },
+        {
+          "name": "topic_4",
+          "children": [
+            { "name": "tf", "weight": 0.04 },
+            { "name": "tensorflow", "weight": 0.021 },
+            { "name": "который", "weight": 0.012 },
+            { "name": "модель", "weight": 0.011 },
+            { "name": "variable", "weight": 0.01 },
+            { "name": "name", "weight": 0.01 },
+            { "name": "переменный", "weight": 0.01 },
+            { "name": "обучение", "weight": 0.01 },
+            { "name": "операция", "weight": 0.009 },
+            { "name": "output", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_5",
+          "children": [
+            { "name": "изображение", "weight": 0.024 },
+            { "name": "loss", "weight": 0.013 },
+            { "name": "сеть", "weight": 0.012 },
+            { "name": "img", "weight": 0.012 },
+            { "name": "потеря", "weight": 0.012 },
+            { "name": "the", "weight": 0.01 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "генеративный", "weight": 0.009 },
+            { "name": "обучение", "weight": 0.009 },
+            { "name": "пространство", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_6",
+          "children": [
+            { "name": "линейный", "weight": 0.027 },
+            { "name": "данные", "weight": 0.02 },
+            { "name": "обучение", "weight": 0.017 },
+            { "name": "уравнение", "weight": 0.016 },
+            { "name": "мочь", "weight": 0.016 },
+            { "name": "образец", "weight": 0.015 },
+            { "name": "функция", "weight": 0.014 },
+            { "name": "вектор", "weight": 0.014 },
+            { "name": "регрессия", "weight": 0.014 },
+            { "name": "признак", "weight": 0.013 }
+          ]
+        },
+        {
+          "name": "topic_7",
+          "children": [
+            { "name": "сеть", "weight": 0.034 },
+            { "name": "слой", "weight": 0.019 },
+            { "name": "потеря", "weight": 0.016 },
+            { "name": "классификация", "weight": 0.015 },
+            { "name": "функция", "weight": 0.015 },
+            { "name": "данные", "weight": 0.015 },
+            { "name": "model", "weight": 0.014 },
+            { "name": "проверка", "weight": 0.012 },
+            { "name": "нейронный", "weight": 0.011 },
+            { "name": "модель", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_8",
+          "children": [
+            { "name": "сеть", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.013 },
+            { "name": "данные", "weight": 0.013 },
+            { "name": "последовательность", "weight": 0.012 },
+            { "name": "слово", "weight": 0.012 },
+            { "name": "слой", "weight": 0.012 },
+            { "name": "model", "weight": 0.011 },
+            { "name": "рекуррентный", "weight": 0.009 },
+            { "name": "модель", "weight": 0.007 },
+            { "name": "этап", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_9",
+          "children": [
+            { "name": "набор", "weight": 0.022 },
+            { "name": "размерность", "weight": 0.017 },
+            { "name": "рса", "weight": 0.013 },
+            { "name": "данные", "weight": 0.012 },
+            { "name": "измерение", "weight": 0.012 },
+            { "name": "обучать", "weight": 0.012 },
+            { "name": "понижение", "weight": 0.011 },
+            { "name": "образец", "weight": 0.01 },
+            { "name": "алгоритм", "weight": 0.01 },
+            { "name": "рис", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_10",
+          "children": [
+            { "name": "tf", "weight": 0.021 },
+            { "name": "обучение", "weight": 0.012 },
+            { "name": "автокодировщик", "weight": 0.011 },
+            { "name": "состояние", "weight": 0.008 },
+            { "name": "действие", "weight": 0.007 },
+            { "name": "сеть", "weight": 0.007 },
+            { "name": "глава", "weight": 0.007 },
+            { "name": "это", "weight": 0.007 },
+            { "name": "вход", "weight": 0.007 },
+            { "name": "слой", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_11",
+          "children": [
+            { "name": "size", "weight": 0.011 },
+            { "name": "модель", "weight": 0.011 },
+            { "name": "self", "weight": 0.011 },
+            { "name": "данные", "weight": 0.011 },
+            { "name": "inputs", "weight": 0.009 },
+            { "name": "seq", "weight": 0.008 },
+            { "name": "последовательность", "weight": 0.008 },
+            { "name": "сеть", "weight": 0.007 },
+            { "name": "decoder", "weight": 0.007 },
+            { "name": "который", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_12",
+          "children": [
+            { "name": "обучение", "weight": 0.038 },
+            { "name": "глубокий", "weight": 0.023 },
+            { "name": "данные", "weight": 0.014 },
+            { "name": "машинный", "weight": 0.013 },
+            { "name": "который", "weight": 0.01 },
+            { "name": "это", "weight": 0.01 },
+            { "name": "задача", "weight": 0.009 },
+            { "name": "модель", "weight": 0.008 },
+            { "name": "год", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_13",
+          "children": [
+            { "name": "python", "weight": 0.033 },
+            { "name": "пакет", "weight": 0.027 },
+            { "name": "устанавливать", "weight": 0.026 },
+            { "name": "sudo", "weight": 0.026 },
+            { "name": "keras", "weight": 0.025 },
+            { "name": "установка", "weight": 0.023 },
+            { "name": "install", "weight": 0.021 },
+            { "name": "gpu", "weight": 0.02 },
+            { "name": "apt", "weight": 0.017 },
+            { "name": "tensorflow", "weight": 0.017 }
+          ]
+        },
+        {
+          "name": "topic_14",
+          "children": [
+            { "name": "действие", "weight": 0.051 },
+            { "name": "state", "weight": 0.05 },
+            { "name": "self", "weight": 0.02 },
+            { "name": "обучение", "weight": 0.02 },
+            { "name": "основа", "weight": 0.015 },
+            { "name": "глубокий", "weight": 0.015 },
+            { "name": "весь", "weight": 0.014 },
+            { "name": "for", "weight": 0.014 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "none", "weight": 0.012 }
+          ]
+        },
+        {
+          "name": "topic_15",
+          "children": [
+            { "name": "self", "weight": 0.04 },
+            { "name": "action", "weight": 0.019 },
+            { "name": "обучение", "weight": 0.019 },
+            { "name": "агент", "weight": 0.015 },
+            { "name": "подкрепление", "weight": 0.012 },
+            { "name": "стратегия", "weight": 0.011 },
+            { "name": "состояние", "weight": 0.009 },
+            { "name": "episode", "weight": 0.009 },
+            { "name": "глубокий", "weight": 0.009 },
+            { "name": "epsilon", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_16",
+          "children": [
+            { "name": "модель", "weight": 0.03 },
+            { "name": "model", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.014 },
+            { "name": "keras", "weight": 0.013 },
+            { "name": "слой", "weight": 0.013 },
+            { "name": "layers", "weight": 0.012 },
+            { "name": "input", "weight": 0.011 },
+            { "name": "conv", "weight": 0.007 },
+            { "name": "данные", "weight": 0.007 },
+            { "name": "глубокий", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_17",
+          "children": [
+            { "name": "память", "weight": 0.023 },
+            { "name": "вектор", "weight": 0.021 },
+            { "name": "ячейка", "weight": 0.016 },
+            { "name": "который", "weight": 0.015 },
+            { "name": "взвешивание", "weight": 0.013 },
+            { "name": "значение", "weight": 0.012 },
+            { "name": "запись", "weight": 0.01 },
+            { "name": "каждый", "weight": 0.009 },
+            { "name": "dnc", "weight": 0.008 },
+            { "name": "ntm", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_18",
+          "children": [
+            { "name": "housing", "weight": 0.016 },
+            { "name": "данные", "weight": 0.013 },
+            { "name": "набор", "weight": 0.011 },
+            { "name": "обучение", "weight": 0.01 },
+            { "name": "мочь", "weight": 0.009 },
+            { "name": "атрибут", "weight": 0.008 },
+            { "name": "который", "weight": 0.007 },
+            { "name": "машинный", "weight": 0.007 },
+            { "name": "значение", "weight": 0.007 },
+            { "name": "модель", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_19",
+          "children": [
+            { "name": "обучать", "weight": 0.017 },
+            { "name": "дерево", "weight": 0.016 },
+            { "name": "решение", "weight": 0.015 },
+            { "name": "набор", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.012 },
+            { "name": "классификатор", "weight": 0.01 },
+            { "name": "образец", "weight": 0.01 },
+            { "name": "прогноз", "weight": 0.01 },
+            { "name": "принятие", "weight": 0.009 },
+            { "name": "класс", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_20",
+          "children": [
+            { "name": "train", "weight": 0.021 },
+            { "name": "классификатор", "weight": 0.018 },
+            { "name": "классификация", "weight": 0.013 },
+            { "name": "класс", "weight": 0.012 },
+            { "name": "полнота", "weight": 0.011 },
+            { "name": "точность", "weight": 0.011 },
+            { "name": "набор", "weight": 0.01 },
+            { "name": "изображение", "weight": 0.009 },
+            { "name": "обучать", "weight": 0.009 },
+            { "name": "мочь", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_21",
+          "children": [
+            { "name": "слой", "weight": 0.04 },
+            { "name": "сеть", "weight": 0.021 },
+            { "name": "сверточный", "weight": 0.02 },
+            { "name": "карта", "weight": 0.014 },
+            { "name": "признак", "weight": 0.012 },
+            { "name": "изображение", "weight": 0.012 },
+            { "name": "нейрон", "weight": 0.011 },
+            { "name": "нейронный", "weight": 0.009 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "рис", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_22",
+          "children": [
+            { "name": "изображение", "weight": 0.015 },
+            { "name": "сеть", "weight": 0.015 },
+            { "name": "сверточный", "weight": 0.013 },
+            { "name": "conv", "weight": 0.013 },
+            { "name": "обучение", "weight": 0.012 },
+            { "name": "признак", "weight": 0.011 },
+            { "name": "dir", "weight": 0.01 },
+            { "name": "слой", "weight": 0.01 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "данные", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_23",
+          "children": [
+            { "name": "tf", "weight": 0.026 },
+            { "name": "tensorflow", "weight": 0.016 },
+            { "name": "relu", "weight": 0.015 },
+            { "name": "граф", "weight": 0.012 },
+            { "name": "код", "weight": 0.011 },
+            { "name": "name", "weight": 0.01 },
+            { "name": "узел", "weight": 0.009 },
+            { "name": "создавать", "weight": 0.009 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "обучение", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_24",
+          "children": [
+            { "name": "ошибка", "weight": 0.017 },
+            { "name": "спуск", "weight": 0.016 },
+            { "name": "градиент", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.013 },
+            { "name": "минимум", "weight": 0.012 },
+            { "name": "градиентный", "weight": 0.011 },
+            { "name": "поверхность", "weight": 0.011 },
+            { "name": "глубокий", "weight": 0.01 },
+            { "name": "локальный", "weight": 0.009 },
+            { "name": "который", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_25",
+          "children": [
+            { "name": "сеть", "weight": 0.037 },
+            { "name": "тензор", "weight": 0.028 },
+            { "name": "данные", "weight": 0.016 },
+            { "name": "форма", "weight": 0.016 },
+            { "name": "операция", "weight": 0.015 },
+            { "name": "shape", "weight": 0.014 },
+            { "name": "первый", "weight": 0.011 },
+            { "name": "градиент", "weight": 0.011 },
+            { "name": "нейронный", "weight": 0.011 },
+            { "name": "функция", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_26",
+          "children": [
+            { "name": "обучение", "weight": 0.032 },
+            { "name": "модель", "weight": 0.029 },
+            { "name": "данные", "weight": 0.028 },
+            { "name": "машинный", "weight": 0.012 },
+            { "name": "набор", "weight": 0.011 },
+            { "name": "обучать", "weight": 0.01 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "мочь", "weight": 0.009 },
+            { "name": "задача", "weight": 0.008 },
+            { "name": "признак", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_27",
+          "children": [
+            { "name": "обучение", "weight": 0.044 },
+            { "name": "функция", "weight": 0.023 },
+            { "name": "каждый", "weight": 0.019 },
+            { "name": "мочь", "weight": 0.016 },
+            { "name": "глубокий", "weight": 0.014 },
+            { "name": "обучать", "weight": 0.014 },
+            { "name": "состояние", "weight": 0.013 },
+            { "name": "вход", "weight": 0.012 },
+            { "name": "tf", "weight": 0.011 },
+            { "name": "loss", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_28",
+          "children": [
+            { "name": "тензор", "weight": 0.033 },
+            { "name": "данные", "weight": 0.017 },
+            { "name": "вектор", "weight": 0.015 },
+            { "name": "значение", "weight": 0.013 },
+            { "name": "потеря", "weight": 0.013 },
+            { "name": "каждый", "weight": 0.013 },
+            { "name": "пример", "weight": 0.012 },
+            { "name": "иметь", "weight": 0.012 },
+            { "name": "train", "weight": 0.011 },
+            { "name": "который", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_29",
+          "children": [
+            { "name": "представление", "weight": 0.021 },
+            { "name": "tf", "weight": 0.016 },
+            { "name": "данные", "weight": 0.012 },
+            { "name": "векторный", "weight": 0.011 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "который", "weight": 0.01 },
+            { "name": "train", "weight": 0.01 },
+            { "name": "слово", "weight": 0.01 },
+            { "name": "плотный", "weight": 0.01 },
+            { "name": "рис", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_30",
+          "children": [
+            { "name": "который", "weight": 0.016 },
+            { "name": "автокодировщик", "weight": 0.016 },
+            { "name": "действие", "weight": 0.016 },
+            { "name": "сеть", "weight": 0.015 },
+            { "name": "слой", "weight": 0.013 },
+            { "name": "мочь", "weight": 0.011 },
+            { "name": "обучение", "weight": 0.01 },
+            { "name": "каждый", "weight": 0.009 },
+            { "name": "tf", "weight": 0.008 },
+            { "name": "награда", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_31",
+          "children": [
+            { "name": "модель", "weight": 0.027 },
+            { "name": "обучение", "weight": 0.018 },
+            { "name": "спуск", "weight": 0.014 },
+            { "name": "функция", "weight": 0.013 },
+            { "name": "регрессия", "weight": 0.012 },
+            { "name": "градиентный", "weight": 0.012 },
+            { "name": "обучать", "weight": 0.012 },
+            { "name": "уравнение", "weight": 0.011 },
+            { "name": "издержки", "weight": 0.011 },
+            { "name": "минимум", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_32",
+          "children": [
+            { "name": "обучение", "weight": 0.033 },
+            { "name": "глава", "weight": 0.016 },
+            { "name": "машинный", "weight": 0.016 },
+            { "name": "сеть", "weight": 0.015 },
+            { "name": "нейронный", "weight": 0.012 },
+            { "name": "tensorflow", "weight": 0.01 },
+            { "name": "книга", "weight": 0.009 },
+            { "name": "данные", "weight": 0.009 },
+            { "name": "использование", "weight": 0.008 },
+            { "name": "глубокий", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_33",
+          "children": [
+            { "name": "сеть", "weight": 0.012 },
+            { "name": "обучение", "weight": 0.012 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "решение", "weight": 0.007 },
+            { "name": "модель", "weight": 0.007 },
+            { "name": "слой", "weight": 0.007 },
+            { "name": "обучать", "weight": 0.006 },
+            { "name": "данные", "weight": 0.006 },
+            { "name": "функция", "weight": 0.005 }
+          ]
+        },
+        {
+          "name": "topic_34",
+          "children": [
+            { "name": "обучение", "weight": 0.024 },
+            { "name": "модель", "weight": 0.017 },
+            { "name": "глубокий", "weight": 0.015 },
+            { "name": "сеть", "weight": 0.013 },
+            { "name": "данные", "weight": 0.013 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "слой", "weight": 0.008 },
+            { "name": "задача", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_35",
+          "children": [
+            { "name": "нейрон", "weight": 0.021 },
+            { "name": "слой", "weight": 0.019 },
+            { "name": "сеть", "weight": 0.017 },
+            { "name": "обучение", "weight": 0.01 },
+            { "name": "tf", "weight": 0.009 },
+            { "name": "рис", "weight": 0.009 },
+            { "name": "функция", "weight": 0.008 },
+            { "name": "который", "weight": 0.007 },
+            { "name": "сверточный", "weight": 0.007 },
+            { "name": "глава", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_36",
+          "children": [
+            { "name": "сеть", "weight": 0.022 },
+            { "name": "rnn", "weight": 0.018 },
+            { "name": "tf", "weight": 0.017 },
+            { "name": "ячейка", "weight": 0.011 },
+            { "name": "шаг", "weight": 0.01 },
+            { "name": "нейронный", "weight": 0.009 },
+            { "name": "временный", "weight": 0.008 },
+            { "name": "каждый", "weight": 0.008 },
+            { "name": "слово", "weight": 0.007 },
+            { "name": "слой", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_37",
+          "children": [
+            { "name": "jupyter", "weight": 0.026 },
+            { "name": "экземпляр", "weight": 0.024 },
+            { "name": "gpu", "weight": 0.022 },
+            { "name": "keras", "weight": 0.018 },
+            { "name": "рис", "weight": 0.016 },
+            { "name": "глубокий", "weight": 0.016 },
+            { "name": "ec", "weight": 0.015 },
+            { "name": "notebook", "weight": 0.014 },
+            { "name": "локальный", "weight": 0.011 },
+            { "name": "aws", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_38",
+          "children": [
+            { "name": "устройство", "weight": 0.015 },
+            { "name": "tf", "weight": 0.014 },
+            { "name": "tensorflow", "weight": 0.012 },
+            { "name": "очередь", "weight": 0.012 },
+            { "name": "операция", "weight": 0.012 },
+            { "name": "сеть", "weight": 0.011 },
+            { "name": "сервер", "weight": 0.01 },
+            { "name": "нейронный", "weight": 0.009 },
+            { "name": "гп", "weight": 0.008 },
+            { "name": "каждый", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_39",
+          "children": [
+            { "name": "обучение", "weight": 0.04 },
+            { "name": "глубокий", "weight": 0.029 },
+            { "name": "сеть", "weight": 0.016 },
+            { "name": "книга", "weight": 0.015 },
+            { "name": "глава", "weight": 0.013 },
+            { "name": "keras", "weight": 0.012 },
+            { "name": "нейронный", "weight": 0.01 },
+            { "name": "машинный", "weight": 0.009 },
+            { "name": "данные", "weight": 0.008 },
+            { "name": "модель", "weight": 0.008 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Владеть",
+      "children": [
+        {
+          "name": "topic_0",
+          "children": [
+            { "name": "файл", "weight": 0.015 },
+            { "name": "gpu", "weight": 0.015 },
+            { "name": "java", "weight": 0.012 },
+            { "name": "версия", "weight": 0.012 },
+            { "name": "dl", "weight": 0.01 },
+            { "name": "dll", "weight": 0.009 },
+            { "name": "maven", "weight": 0.009 },
+            { "name": "nd", "weight": 0.008 },
+            { "name": "выполнять", "weight": 0.008 },
+            { "name": "cuda", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_1",
+          "children": [
+            { "name": "new", "weight": 0.023 },
+            { "name": "данные", "weight": 0.016 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "слово", "weight": 0.009 },
+            { "name": "сеть", "weight": 0.008 },
+            { "name": "activation", "weight": 0.008 },
+            { "name": "builder", "weight": 0.008 },
+            { "name": "vec", "weight": 0.007 },
+            { "name": "пример", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_2",
+          "children": [
+            { "name": "сеть", "weight": 0.036 },
+            { "name": "обучение", "weight": 0.035 },
+            { "name": "метод", "weight": 0.026 },
+            { "name": "алгоритм", "weight": 0.023 },
+            { "name": "слой", "weight": 0.023 },
+            { "name": "градиент", "weight": 0.022 },
+            { "name": "модель", "weight": 0.02 },
+            { "name": "пример", "weight": 0.015 },
+            { "name": "который", "weight": 0.013 },
+            { "name": "работа", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_3",
+          "children": [
+            { "name": "модель", "weight": 0.017 },
+            { "name": "слово", "weight": 0.014 },
+            { "name": "al", "weight": 0.012 },
+            { "name": "et", "weight": 0.012 },
+            { "name": "обучение", "weight": 0.009 },
+            { "name": "нейронный", "weight": 0.008 },
+            { "name": "сеть", "weight": 0.007 },
+            { "name": "который", "weight": 0.007 },
+            { "name": "каждый", "weight": 0.006 },
+            { "name": "это", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_4",
+          "children": [
+            { "name": "слой", "weight": 0.039 },
+            { "name": "сеть", "weight": 0.038 },
+            { "name": "входной", "weight": 0.025 },
+            { "name": "нейронный", "weight": 0.014 },
+            { "name": "область", "weight": 0.013 },
+            { "name": "архитектура", "weight": 0.013 },
+            { "name": "сверточный", "weight": 0.013 },
+            { "name": "вход", "weight": 0.012 },
+            { "name": "фильтр", "weight": 0.012 },
+            { "name": "глубокий", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_5",
+          "children": [
+            { "name": "функция", "weight": 0.025 },
+            { "name": "обучение", "weight": 0.02 },
+            { "name": "параметр", "weight": 0.017 },
+            { "name": "метод", "weight": 0.015 },
+            { "name": "активация", "weight": 0.013 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "скорость", "weight": 0.012 },
+            { "name": "слой", "weight": 0.011 },
+            { "name": "класс", "weight": 0.01 },
+            { "name": "потеря", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_6",
+          "children": [
+            { "name": "обучение", "weight": 0.071 },
+            { "name": "алгоритм", "weight": 0.043 },
+            { "name": "функция", "weight": 0.022 },
+            { "name": "softmax", "weight": 0.018 },
+            { "name": "общий", "weight": 0.015 },
+            { "name": "который", "weight": 0.014 },
+            { "name": "распределение", "weight": 0.013 },
+            { "name": "случай", "weight": 0.012 },
+            { "name": "задача", "weight": 0.011 },
+            { "name": "пример", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_7",
+          "children": [
+            { "name": "данные", "weight": 0.065 },
+            { "name": "сеть", "weight": 0.047 },
+            { "name": "метод", "weight": 0.024 },
+            { "name": "функция", "weight": 0.023 },
+            { "name": "это", "weight": 0.022 },
+            { "name": "входной", "weight": 0.02 },
+            { "name": "данный", "weight": 0.017 },
+            { "name": "использоваться", "weight": 0.013 },
+            { "name": "мочь", "weight": 0.011 },
+            { "name": "архитектура", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_8",
+          "children": [
+            { "name": "обучение", "weight": 0.053 },
+            { "name": "глубокий", "weight": 0.042 },
+            { "name": "dl", "weight": 0.025 },
+            { "name": "глава", "weight": 0.02 },
+            { "name": "spark", "weight": 0.012 },
+            { "name": "который", "weight": 0.011 },
+            { "name": "архитектура", "weight": 0.011 },
+            { "name": "приложение", "weight": 0.011 },
+            { "name": "настройка", "weight": 0.01 },
+            { "name": "слой", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_9",
+          "children": [
+            { "name": "обучение", "weight": 0.023 },
+            { "name": "глава", "weight": 0.014 },
+            { "name": "глубокий", "weight": 0.012 },
+            { "name": "сеть", "weight": 0.012 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "распределение", "weight": 0.008 },
+            { "name": "матрица", "weight": 0.007 },
+            { "name": "алгоритм", "weight": 0.007 },
+            { "name": "метод", "weight": 0.007 },
+            { "name": "книга", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_10",
+          "children": [
+            { "name": "ия", "weight": 0.017 },
+            { "name": "nd", "weight": 0.015 },
+            { "name": "массив", "weight": 0.013 },
+            { "name": "ndarray", "weight": 0.012 },
+            { "name": "indarray", "weight": 0.009 },
+            { "name": "обучение", "weight": 0.009 },
+            { "name": "int", "weight": 0.008 },
+            { "name": "метод", "weight": 0.008 },
+            { "name": "интеллект", "weight": 0.008 },
+            { "name": "строка", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_11",
+          "children": [
+            { "name": "обучение", "weight": 0.017 },
+            { "name": "модель", "weight": 0.013 },
+            { "name": "машинный", "weight": 0.013 },
+            { "name": "данные", "weight": 0.012 },
+            { "name": "функция", "weight": 0.009 },
+            { "name": "вектор", "weight": 0.009 },
+            { "name": "вероятность", "weight": 0.009 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "пример", "weight": 0.007 },
+            { "name": "мочь", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_12",
+          "children": [
+            { "name": "обучение", "weight": 0.028 },
+            { "name": "глубокий", "weight": 0.018 },
+            { "name": "сеть", "weight": 0.015 },
+            { "name": "al", "weight": 0.014 },
+            { "name": "et", "weight": 0.014 },
+            { "name": "модель", "weight": 0.01 },
+            { "name": "машинный", "weight": 0.009 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "нейронный", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_13",
+          "children": [
+            { "name": "матрица", "weight": 0.024 },
+            { "name": "распределение", "weight": 0.021 },
+            { "name": "вероятность", "weight": 0.021 },
+            { "name": "вектор", "weight": 0.015 },
+            { "name": "величина", "weight": 0.013 },
+            { "name": "значение", "weight": 0.011 },
+            { "name": "функция", "weight": 0.01 },
+            { "name": "который", "weight": 0.009 },
+            { "name": "случайный", "weight": 0.009 },
+            { "name": "весь", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_14",
+          "children": [
+            { "name": "сеть", "weight": 0.02 },
+            { "name": "рекуррентный", "weight": 0.017 },
+            { "name": "последовательность", "weight": 0.017 },
+            { "name": "рнс", "weight": 0.015 },
+            { "name": "шаг", "weight": 0.013 },
+            { "name": "блок", "weight": 0.011 },
+            { "name": "который", "weight": 0.011 },
+            { "name": "al", "weight": 0.01 },
+            { "name": "et", "weight": 0.01 },
+            { "name": "градиент", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_15",
+          "children": [
+            { "name": "сеть", "weight": 0.049 },
+            { "name": "функция", "weight": 0.032 },
+            { "name": "обучение", "weight": 0.02 },
+            { "name": "нейронный", "weight": 0.016 },
+            { "name": "параметр", "weight": 0.015 },
+            { "name": "потеря", "weight": 0.015 },
+            { "name": "каждый", "weight": 0.015 },
+            { "name": "работа", "weight": 0.015 },
+            { "name": "обратный", "weight": 0.015 },
+            { "name": "значение", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_16",
+          "children": [
+            { "name": "автокодировщик", "weight": 0.026 },
+            { "name": "обучение", "weight": 0.013 },
+            { "name": "обучать", "weight": 0.013 },
+            { "name": "многообразие", "weight": 0.012 },
+            { "name": "функция", "weight": 0.011 },
+            { "name": "который", "weight": 0.01 },
+            { "name": "распределение", "weight": 0.01 },
+            { "name": "кодировщик", "weight": 0.009 },
+            { "name": "мочь", "weight": 0.009 },
+            { "name": "реконструкция", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_17",
+          "children": [
+            { "name": "spark", "weight": 0.044 },
+            { "name": "version", "weight": 0.016 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "hadoop", "weight": 0.01 },
+            { "name": "new", "weight": 0.01 },
+            { "name": "dl", "weight": 0.009 },
+            { "name": "кластер", "weight": 0.009 },
+            { "name": "yarn", "weight": 0.009 },
+            { "name": "задача", "weight": 0.009 },
+            { "name": "пример", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_18",
+          "children": [
+            { "name": "выборка", "weight": 0.028 },
+            { "name": "распределение", "weight": 0.023 },
+            { "name": "цепь", "weight": 0.02 },
+            { "name": "марковский", "weight": 0.017 },
+            { "name": "пример", "weight": 0.013 },
+            { "name": "модель", "weight": 0.013 },
+            { "name": "метод", "weight": 0.012 },
+            { "name": "мода", "weight": 0.01 },
+            { "name": "вероятность", "weight": 0.01 },
+            { "name": "состояние", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_19",
+          "children": [
+            { "name": "сеть", "weight": 0.029 },
+            { "name": "обучение", "weight": 0.017 },
+            { "name": "глубокий", "weight": 0.017 },
+            { "name": "слой", "weight": 0.014 },
+            { "name": "нейронный", "weight": 0.008 },
+            { "name": "функция", "weight": 0.007 },
+            { "name": "признак", "weight": 0.007 },
+            { "name": "глава", "weight": 0.007 },
+            { "name": "это", "weight": 0.007 },
+            { "name": "блок", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_20",
+          "children": [
+            { "name": "nd", "weight": 0.029 },
+            { "name": "версия", "weight": 0.029 },
+            { "name": "dl", "weight": 0.028 },
+            { "name": "maven", "weight": 0.026 },
+            { "name": "проект", "weight": 0.024 },
+            { "name": "version", "weight": 0.022 },
+            { "name": "код", "weight": 0.016 },
+            { "name": "git", "weight": 0.015 },
+            { "name": "работать", "weight": 0.014 },
+            { "name": "java", "weight": 0.013 }
+          ]
+        },
+        {
+          "name": "topic_21",
+          "children": [
+            { "name": "сеть", "weight": 0.019 },
+            { "name": "пример", "weight": 0.018 },
+            { "name": "int", "weight": 0.016 },
+            { "name": "каждый", "weight": 0.01 },
+            { "name": "new", "weight": 0.01 },
+            { "name": "build", "weight": 0.008 },
+            { "name": "глубокий", "weight": 0.008 },
+            { "name": "dl", "weight": 0.007 },
+            { "name": "list", "weight": 0.007 },
+            { "name": "слой", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_22",
+          "children": [
+            { "name": "модель", "weight": 0.023 },
+            { "name": "распределение", "weight": 0.019 },
+            { "name": "сумма", "weight": 0.017 },
+            { "name": "выборка", "weight": 0.013 },
+            { "name": "статистический", "weight": 0.012 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "метод", "weight": 0.011 },
+            { "name": "фаза", "weight": 0.009 },
+            { "name": "мочь", "weight": 0.009 },
+            { "name": "который", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_23",
+          "children": [
+            { "name": "and", "weight": 0.055 },
+            { "name": "in", "weight": 0.038 },
+            { "name": "the", "weight": 0.026 },
+            { "name": "of", "weight": 0.025 },
+            { "name": "neural", "weight": 0.015 },
+            { "name": "on", "weight": 0.015 },
+            { "name": "networks", "weight": 0.014 },
+            { "name": "deep", "weight": 0.012 },
+            { "name": "for", "weight": 0.011 },
+            { "name": "conference", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_24",
+          "children": [
+            { "name": "обучение", "weight": 0.027 },
+            { "name": "представление", "weight": 0.022 },
+            { "name": "учитель", "weight": 0.02 },
+            { "name": "который", "weight": 0.013 },
+            { "name": "мочь", "weight": 0.01 },
+            { "name": "обучать", "weight": 0.009 },
+            { "name": "пример", "weight": 0.009 },
+            { "name": "задача", "weight": 0.009 },
+            { "name": "модель", "weight": 0.009 },
+            { "name": "предобучение", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_25",
+          "children": [
+            { "name": "функция", "weight": 0.023 },
+            { "name": "сеть", "weight": 0.019 },
+            { "name": "распространение", "weight": 0.016 },
+            { "name": "блок", "weight": 0.014 },
+            { "name": "вычисление", "weight": 0.011 },
+            { "name": "модель", "weight": 0.011 },
+            { "name": "линейный", "weight": 0.01 },
+            { "name": "обратный", "weight": 0.009 },
+            { "name": "градиент", "weight": 0.009 },
+            { "name": "прямой", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_26",
+          "children": [
+            { "name": "модель", "weight": 0.041 },
+            { "name": "величина", "weight": 0.013 },
+            { "name": "распределение", "weight": 0.013 },
+            { "name": "граф", "weight": 0.012 },
+            { "name": "обучение", "weight": 0.011 },
+            { "name": "глубокий", "weight": 0.009 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "переменный", "weight": 0.008 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "выборка", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_27",
+          "children": [
+            { "name": "оптимизация", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.014 },
+            { "name": "градиент", "weight": 0.013 },
+            { "name": "функция", "weight": 0.013 },
+            { "name": "алгоритм", "weight": 0.011 },
+            { "name": "точка", "weight": 0.009 },
+            { "name": "спуск", "weight": 0.008 },
+            { "name": "скорость", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "метод", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_28",
+          "children": [
+            { "name": "обучение", "weight": 0.022 },
+            { "name": "состояние", "weight": 0.019 },
+            { "name": "state", "weight": 0.015 },
+            { "name": "политика", "weight": 0.01 },
+            { "name": "значение", "weight": 0.01 },
+            { "name": "сеть", "weight": 0.01 },
+            { "name": "подкрепление", "weight": 0.01 },
+            { "name": "действие", "weight": 0.009 },
+            { "name": "rl", "weight": 0.008 },
+            { "name": "функция", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_29",
+          "children": [
+            { "name": "обучение", "weight": 0.021 },
+            { "name": "гиперпараметр", "weight": 0.018 },
+            { "name": "ошибка", "weight": 0.018 },
+            { "name": "модель", "weight": 0.014 },
+            { "name": "алгоритм", "weight": 0.01 },
+            { "name": "значение", "weight": 0.01 },
+            { "name": "мочь", "weight": 0.01 },
+            { "name": "набор", "weight": 0.009 },
+            { "name": "качество", "weight": 0.009 },
+            { "name": "поиск", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_30",
+          "children": [
+            { "name": "изображение", "weight": 0.023 },
+            { "name": "сеть", "weight": 0.018 },
+            { "name": "данные", "weight": 0.017 },
+            { "name": "признак", "weight": 0.016 },
+            { "name": "обучение", "weight": 0.015 },
+            { "name": "временный", "weight": 0.015 },
+            { "name": "каждый", "weight": 0.014 },
+            { "name": "lstm", "weight": 0.012 },
+            { "name": "https", "weight": 0.011 },
+            { "name": "шаг", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_31",
+          "children": [
+            { "name": "сеть", "weight": 0.023 },
+            { "name": "обучение", "weight": 0.022 },
+            { "name": "метод", "weight": 0.015 },
+            { "name": "слой", "weight": 0.015 },
+            { "name": "данные", "weight": 0.012 },
+            { "name": "модель", "weight": 0.01 },
+            { "name": "глубокий", "weight": 0.009 },
+            { "name": "функция", "weight": 0.009 },
+            { "name": "настройка", "weight": 0.008 },
+            { "name": "моделирование", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_32",
+          "children": [
+            { "name": "вывод", "weight": 0.026 },
+            { "name": "обучение", "weight": 0.018 },
+            { "name": "модель", "weight": 0.018 },
+            { "name": "распределение", "weight": 0.017 },
+            { "name": "это", "weight": 0.012 },
+            { "name": "мочь", "weight": 0.011 },
+            { "name": "log", "weight": 0.011 },
+            { "name": "который", "weight": 0.011 },
+            { "name": "вариационный", "weight": 0.011 },
+            { "name": "алгоритм", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_33",
+          "children": [
+            { "name": "модель", "weight": 0.018 },
+            { "name": "обучение", "weight": 0.017 },
+            { "name": "регуляризация", "weight": 0.015 },
+            { "name": "параметр", "weight": 0.012 },
+            { "name": "набор", "weight": 0.01 },
+            { "name": "функция", "weight": 0.008 },
+            { "name": "сеть", "weight": 0.008 },
+            { "name": "который", "weight": 0.008 },
+            { "name": "мочь", "weight": 0.008 },
+            { "name": "весы", "weight": 0.007 }
+          ]
+        },
+        {
+          "name": "topic_34",
+          "children": [
+            { "name": "сеть", "weight": 0.024 },
+            { "name": "данные", "weight": 0.023 },
+            { "name": "datavec", "weight": 0.014 },
+            { "name": "пример", "weight": 0.013 },
+            { "name": "книга", "weight": 0.011 },
+            { "name": "класс", "weight": 0.009 },
+            { "name": "new", "weight": 0.009 },
+            { "name": "загрузка", "weight": 0.008 },
+            { "name": "обучение", "weight": 0.008 },
+            { "name": "файл", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_35",
+          "children": [
+            { "name": "функция", "weight": 0.028 },
+            { "name": "сеть", "weight": 0.025 },
+            { "name": "слой", "weight": 0.021 },
+            { "name": "нейрон", "weight": 0.019 },
+            { "name": "нейронный", "weight": 0.015 },
+            { "name": "обучение", "weight": 0.014 },
+            { "name": "активация", "weight": 0.013 },
+            { "name": "входной", "weight": 0.01 },
+            { "name": "значение", "weight": 0.01 },
+            { "name": "связь", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_36",
+          "children": [
+            { "name": "модель", "weight": 0.02 },
+            { "name": "распределение", "weight": 0.015 },
+            { "name": "сеть", "weight": 0.014 },
+            { "name": "блок", "weight": 0.011 },
+            { "name": "порождать", "weight": 0.01 },
+            { "name": "машина", "weight": 0.01 },
+            { "name": "больцман", "weight": 0.009 },
+            { "name": "слой", "weight": 0.009 },
+            { "name": "омб", "weight": 0.008 },
+            { "name": "al", "weight": 0.008 }
+          ]
+        },
+        {
+          "name": "topic_37",
+          "children": [
+            { "name": "сеть", "weight": 0.023 },
+            { "name": "сверточный", "weight": 0.019 },
+            { "name": "сверток", "weight": 0.017 },
+            { "name": "слой", "weight": 0.014 },
+            { "name": "ядро", "weight": 0.01 },
+            { "name": "каждый", "weight": 0.01 },
+            { "name": "изображение", "weight": 0.01 },
+            { "name": "функция", "weight": 0.009 },
+            { "name": "вход", "weight": 0.009 },
+            { "name": "который", "weight": 0.009 }
+          ]
+        },
+        {
+          "name": "topic_38",
+          "children": [
+            { "name": "and", "weight": 0.064 },
+            { "name": "in", "weight": 0.03 },
+            { "name": "learning", "weight": 0.029 },
+            { "name": "of", "weight": 0.025 },
+            { "name": "neural", "weight": 0.019 },
+            { "name": "for", "weight": 0.016 },
+            { "name": "pages", "weight": 0.016 },
+            { "name": "with", "weight": 0.011 },
+            { "name": "networks", "weight": 0.011 },
+            { "name": "bengio", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_39",
+          "children": [
+            { "name": "обучение", "weight": 0.024 },
+            { "name": "пример", "weight": 0.018 },
+            { "name": "алгоритм", "weight": 0.017 },
+            { "name": "обучать", "weight": 0.014 },
+            { "name": "набор", "weight": 0.013 },
+            { "name": "ошибка", "weight": 0.012 },
+            { "name": "функция", "weight": 0.011 },
+            { "name": "оценка", "weight": 0.011 },
+            { "name": "который", "weight": 0.011 },
+            { "name": "данные", "weight": 0.01 }
+          ]
+        },
+        {
+          "name": "topic_40",
+          "children": [
+            { "name": "функция", "weight": 0.031 },
+            { "name": "точка", "weight": 0.021 },
+            { "name": "значение", "weight": 0.015 },
+            { "name": "метод", "weight": 0.014 },
+            { "name": "оптимизация", "weight": 0.013 },
+            { "name": "который", "weight": 0.012 },
+            { "name": "минимум", "weight": 0.012 },
+            { "name": "ограничение", "weight": 0.011 },
+            { "name": "это", "weight": 0.011 },
+            { "name": "производная", "weight": 0.011 }
+          ]
+        },
+        {
+          "name": "topic_41",
+          "children": [
+            { "name": "данные", "weight": 0.024 },
+            { "name": "слово", "weight": 0.016 },
+            { "name": "векторизация", "weight": 0.014 },
+            { "name": "значение", "weight": 0.012 },
+            { "name": "вектор", "weight": 0.009 },
+            { "name": "документ", "weight": 0.008 },
+            { "name": "столбец", "weight": 0.008 },
+            { "name": "признак", "weight": 0.007 },
+            { "name": "метод", "weight": 0.006 },
+            { "name": "это", "weight": 0.006 }
+          ]
+        },
+        {
+          "name": "topic_42",
+          "children": [
+            { "name": "слой", "weight": 0.023 },
+            { "name": "сеть", "weight": 0.018 },
+            { "name": "обучение", "weight": 0.014 },
+            { "name": "данные", "weight": 0.013 },
+            { "name": "размер", "weight": 0.013 },
+            { "name": "число", "weight": 0.009 },
+            { "name": "блок", "weight": 0.008 },
+            { "name": "выходной", "weight": 0.007 },
+            { "name": "настройка", "weight": 0.007 },
+            { "name": "случай", "weight": 0.007 }
+          ]
+        }
+      ]
+    }
+  ]
+}
